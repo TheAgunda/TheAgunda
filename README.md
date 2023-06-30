@@ -2,10 +2,10 @@
 <h1 align="center">
     Hi, I'm Kiran Badola
 </h1>
-<h4 align="left">
+<p align="left">
     A passionate web app developer. I tend to make use of modern web technologies to build websites that
     looks great, feels fantastic, and functions correctly.
-</h4>
+</p>
 <h3 align="left" tabindex="-1" dir="auto">
     <a id="user-content-languages-and-tools" class="anchor" aria-hidden="true" href="#languages-and-tools"><svg
             class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
